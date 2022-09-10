@@ -1,4 +1,4 @@
-package Education
+package Education.ScalaSwing
 
 import scala.swing._
 
